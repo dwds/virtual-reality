@@ -1,7 +1,7 @@
 # Udacity VR Nanodegree Project 2 - Apartment
 
 ## What is this?
-This is the second project in Udacity's Virtual Reality Nanodegree. It is a VR apartment scene built with Unity that runs on an Android device using Google Cardboard. The scene features precisely arranged furniture, lighting, and an animated spinning globe. Tapping the screen or pressing the Google Cardboard button will move you around the apartment, as well as starting & stopping the spinning globe.
+This is the second project in Udacity's Virtual Reality Nanodegree. It is a VR apartment scene built with Unity that runs on an Android device using Google Cardboard. The scene features precisely arranged furniture, lighting, and an animated spinning globe. Tapping the screen or pressing the Google Cardboard button will move you around the apartment, as well as starting & stopping the spinning globe. I wrote about working on this project in [a blog post](https://derekds.com/sketchbook/learning-virtual-reality/).
 
 ## How can I view it?
 To view it, install the APK file located at '/Build/project2Apartment_dadian-smith.apk' on an Android phone. You will need a Google Cardboard viewer to experience the app in Virtual Reality.
