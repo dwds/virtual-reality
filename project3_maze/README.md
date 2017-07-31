@@ -4,7 +4,7 @@
 This is the third project in Udacity's Virtual Reality Nanodegree. It is a VR maze game built with Unity that runs on an Android device using Google Cardboard. The game features a maze that you must navigate to find and collect coins and a key. Once you have collected the key, then you can unlock the door to the temple, winning the game. The project required the use of scripting to track the state of the key and door, and to create the effect of collecting objects.
 
 ## How can I view it?
-To view it, install the APK file located at '/Build/TempleMaze.apk' on an Android phone. You will need a Google Cardboard viewer to experience the app in Virtual Reality.
+Unfortunatley, the APK file is too big to upload to github. You'll have to settle for screenshots.
 
 ## Who made this?
 Udacity provided the starter project files, which included prefab maze walls, temple, coins, key, etc. I had to design the maze and place the walls, coins, and key in the scene to make a playable game. I also wrote scripts to create the interactions in the game, such as the sound effects and animation upon collecting coins, tracking whether or not the key has been collected, and animating the door opening. You can read all the requirements on the [project rubric](https://review.udacity.com/#!/rubrics/298/view).
